@@ -1,0 +1,2 @@
+C:\Users\mpari\Documents\coding projects\C++\2.2 More Data Basics\MoreDataBasics Lab 2.2\x64\Debug\MoreDataBasics Lab 2.2.exe
+C:\Users\mpari\Documents\coding projects\C++\2.2 More Data Basics\MoreDataBasics Lab 2.2\x64\Debug\MoreDataBasics Lab 2.2.pdb
